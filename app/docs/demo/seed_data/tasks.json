@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Implement user authentication",
+      "description": "Create login and registration endpoints",
+      "status": "in progress",
+      "priority": "high",
+      "deadline": "2023-12-15T00:00:00",
+      "project_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Design database schema",
+      "description": "Prepare ER diagram for the project",
+      "status": "todo",
+      "priority": "medium",
+      "deadline": "2023-12-10T00:00:00",
+      "project_id": 1
+    },
+    {
+      "id": 3,
+      "title": "Create API documentation",
+      "description": "Generate Swagger/OpenAPI specs",
+      "status": "done",
+      "priority": "low",
+      "deadline": "2023-11-30T00:00:00",
+      "project_id": 2
+    }
+  ]
